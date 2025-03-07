@@ -1,5 +1,5 @@
 # Azmaeen Mahatab
-Hello, I'm Azmaeen Mahatab Swapnil. I'm interested in Coding, Cyber Security, Penetration Testing and Ethical Hacking.
+Hello, I'm Azmaeen Mahatab. I'm interested in Coding, Cyber Security, Penetration Testing and Ethical Hacking.
 ### Explore Repositories
 [Google](https://www.github.com/azmaeenmahatab28/google)
 [Login-Form](https://www.github.com/azmaeenmahatab28/Login-Form)
