@@ -1,9 +1,10 @@
-# Welcome to my GitHub Profile
-## Junior Devloper
-- 👋 Hi, I’m Azmaeen Mahatab
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning programming
-.
+# Azmaeen Mahatab
+Hello, I'm Azmaeen Mahatab Swapnil. I'm interested in Coding, Cyber Security, Penetration Testing and Ethical Hacking.
+### Explore Repositories
+[Google](https://www.github.com/azmaeenmahatab28/google)
+[Login-Form](https://www.github.com/azmaeenmahatab28/Login-Form)
+[Toggle-Pasword-Visibily](https://www.github.com/azmaeenmahatab28/Toggle-Pasword-Visibily)
+[Photo-Uploader](https://www.github.com/azmaeenmahatab28/Photo-Uploader)
 <!---
 azmaeenmahatab28/azmaeenmahatab28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
